@@ -5,31 +5,28 @@ cover: ulassai_sign.jpg
 author: Antonia
 ---
 ![ulassai](./ulassai_sign.jpg)
-Manchmal sind es gerade die unfreiwilligen Planänderungen, die einen an das eigentliche Ziel einer Reise führen können. In unserem Fall war der Auslöser ein platter Autoreifen, der uns für einige Tage in einem Dorf mitten im sardischen Bergland festhielt - und uns rückblickend die schönsten Tage der Reise beschert hat. 
+Manchmal sind es gerade die unfreiwilligen Planänderungen, die einen an das eigentliche Ziel einer Reise führen können. In unserem Fall war der Auslöser ein platter Autoreifen, der uns für einige Tage in einem Dorf mitten im sardischen Bergland festhielt - und uns rückblickend die schönsten Tage der Reise beschert hat.
 
 
 Ulassai - ein kleines Bergdorf, welches wahrscheinlich den wenigstens Sardinien-Urlaubern ein Begriff ist. Ulassai liegt im Herzen der Ogliastra und ist, wenn überhaupt, für seine Höhlen (Is Lianas und Su Marmuri) bekannt, die zu den größten Europas gehören.
 ![map](./map.png)
 
-Was wir bisher nicht wussten - die Kalksteinfelsen rund um das Dorf bieten Kletterern (Mountainbikern, Motorcrossfahrern und Highlinern…) einen fast unendlich großen Abenteuerspielplatz: 
+Was wir bisher nicht wussten - die Kalksteinfelsen rund um das Dorf bieten Kletterern (Mountainbikern, Motorcrossfahrern und Highlinern…) einen fast unendlich großen Abenteuerspielplatz:
 
 `youtube: https://www.youtube.com/embed/62-Rrl5E6uA`
 
-
 Uns das allen Dank der Nannai Climbing Family.
-
 
 ### Nanawho?
 
-
 Nachdem ein paar Locals das Gebiet 2001 für sich entdeckt hatten, kam 2011 eine international zusammegewürfelte Gruppe von Kletter-Enthusiasten nach Ulassai, gründeten die Nannai Community - und blieben.
-Heute, einige Jahre und viele Bolts später, haben sie in und um das Dorf herum ein wahres Kletterparadies erschaffen. In der Gegend um Ulassai und den Nachbar-Kommunen Jerzu und Osini finden sich unzählige abwechsungsreiche Gebiete in traumhafter Natur mit hunderten, top abgesichterten, Kletterrouten. 
+Heute, einige Jahre und viele Bolts später, haben sie in und um das Dorf herum ein wahres Kletterparadies erschaffen. In der Gegend um Ulassai und den Nachbar-Kommunen Jerzu und Osini finden sich unzählige abwechsungsreiche Gebiete in traumhafter Natur mit hunderten, top abgesichterten, Kletterrouten.
 
 
-Die Community betreibt im Dorf ein kleines Guesthouse, das [Nannai Climbing House](https://www.climbingulassai.com/), das neben der Unterkunft auch Kletterkurse und Yoga anbietet, ein [Kletterfestival](https://www.youtube.com/watch?v=PzZa-ZYVlus) organisiert und mit dem Event “Women Rock” ein Frauen-fokussiertes Kletterevent auf die Beine gestellt hat. 
+Die Community betreibt im Dorf ein kleines Guesthouse, das [Nannai Climbing House](https://www.climbingulassai.com/), das neben der Unterkunft auch Kletterkurse und Yoga anbietet, ein [Kletterfestival](https://www.youtube.com/watch?v=PzZa-ZYVlus) organisiert und mit dem Event “Women Rock” ein Frauen-fokussiertes Kletterevent auf die Beine gestellt hat.
 
 
-### Klettern in Ulassai 
+### Klettern in Ulassai
 
 
 Drei Tage sind leider nicht mal ansatzweise genug Zeit um die Gegend zu erkundigen, deshalb haben wir bisher nur zwei der über 16 Spots in der Region kennengelernt: Su Casteddu und Canyon Sa Trappara.
@@ -61,11 +58,11 @@ Yannicks Favorit war eine 6c Route namens Tossica, die sich kleingriffig 30m gle
 ### Und sonst?
 
 ### Stay local!
-Nach einem langen Klettertag gibt es dann nichts besseres, als ein Ichnusa Limone und eine große Pizza in der lokalen [Pizzeria Gian Battista](https://goo.gl/maps/N8VRZezDt9smGfKR7). 
+Nach einem langen Klettertag gibt es dann nichts besseres, als ein Ichnusa Limone und eine große Pizza in der lokalen [Pizzeria Gian Battista](https://goo.gl/maps/N8VRZezDt9smGfKR7).
 Jeden Dienstag gibt es einen kleinen Markt auf der Piazza Barigau, auf dem man sich mit lokalen Produkten versorgen kann. Abgesehen davon gibt es zwei kleine Supermärkte im Dorf. Unser Tag hat meistens mit einem super Cappucchino und einem Brioche (con crema) auf der Terasse der [Bar & Paninoteca Stazione Curcuda](https://goo.gl/maps/cyKt7YDFnMSmcL2z7) begonnen um gemütlich die Spots und Routen zu planen.
 
 
-Die Gegend ist außerdem für ihre Cannonau-Weine aus der Valle del Pardu bekannt, die man bei vielen lokalen Händlern verkosten und natürlich kaufen kann. 
+Die Gegend ist außerdem für ihre Cannonau-Weine aus der Valle del Pardu bekannt, die man bei vielen lokalen Händlern verkosten und natürlich kaufen kann.
 
 
 ### Ausrüstung
