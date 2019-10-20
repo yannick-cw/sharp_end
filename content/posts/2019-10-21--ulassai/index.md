@@ -4,9 +4,12 @@ tags: ["klettern", "sardinien", "ulassai"]
 cover: ulassai_sign.jpg
 author: Antonia
 ---
-![ulassai](./ulassai_sign.jpg)
+<re-img
+    src="ulassai_sign.jpg"
+    title="Ulassai view"
+    >
+</re-img>
 Manchmal sind es gerade die unfreiwilligen Planänderungen, die einen an das eigentliche Ziel einer Reise führen können. In unserem Fall war der Auslöser ein platter Autoreifen, der uns für einige Tage in einem Dorf mitten im sardischen Bergland festhielt - und uns rückblickend die schönsten Tage der Reise beschert hat.
-
 
 Ulassai - ein kleines Bergdorf, welches wahrscheinlich den wenigstens Sardinien-Urlaubern ein Begriff ist. Ulassai liegt im Herzen der Ogliastra und ist, wenn überhaupt, für seine Höhlen (Is Lianas und Su Marmuri) bekannt, die zu den größten Europas gehören.
 ![map](./map.png)
@@ -37,21 +40,46 @@ Während wir bei Su Casteddu nur ca. 4 Routen geklettert sind, haben wir den Can
 
 
 Mein Favorit war eine 38m lange, eher einfache 6a Route (Un Have Maria), die sehr dazu verleitet, mehr Aufmerksamkeit der Aussicht im Rücken, als dem Fels vor sich zu schenken.
-![toni](./toni.jpg)
 
-![Un Have Maria, 6a](./goats.JPG)
+<re-img
+    src="./toni.jpg"
+    title="toni"
+    >
+</re-img>
+
+<re-img
+    src="./goats.JPG"
+    title="Un Have Maria, 6a"
+    >
+</re-img>
 
 Der **Canyon Sa Trappara** kann sogar zu Fuß direkt aus dem Dorf erreicht werden und ist nur wenige Meter vom Nannai Climbing Home entfernt. Der lange, meist schattige Canyon ist besonders für warme Tage empfehlenswert und bietet in 16 Sektoren über 150 Routen, die wirklich keine Wünsche offen lassen. Von Anfängerrouten (10x4er, 23x5er,47x6er) bis zu schweren Routen (45x7er 14x8er) ist alles dabei und sogar die leichteren Routen sind schön vertikal und griffig. Bei den Routen in den oberen Sektoren (Sektor 15 & 16) hat mein einen traumhaften Blick über das Tal und kann die Abendsonne genießen.
 
 Yannicks Favorit war eine 6c Route namens Tossica, die sich kleingriffig über 30m gleichbleibend schwer die Wand hinauf zieht.
 
-![Blick vom Einstieg Canyon Sa Trappara](./ulassai.jpg)
+<re-img
+    src="./ulassai.jpg"
+    title="Blick vom Einstieg Canyon Sa Trappara"
+    >
+</re-img>
 
-![valley](./valley_3.png)
+<re-img
+    src="./valley_3.png"
+    title="valley"
+    >
+</re-img>
 
-![Blick von Sektor 16](./valley_2.JPG)
+<re-img
+    src="./valley_2.JPG"
+    title="Blick von Sektor 16"
+    >
+</re-img>
 
-![Blick auf den Canyon und links Sektor 15](./valley.JPG)
+<re-img
+    src="./valley.JPG"
+    title="Blick auf den Canyon und links Sektor 15"
+    >
+</re-img>
 
 ### Und sonst?
 
@@ -74,7 +102,11 @@ Ansonsten ca. 15 Expressen und natürlich Material zum Umbauen. In den meisten R
 Den lokalen Kletterführer von der Nannai Crew kann man u.a. an der Bar & Paninoteca Stazione Curcuda, sowie in mehreren Bars und Shops oder im Climbing House für ca. 15€ kaufen. Der Guide ist super ausführlich, liebevoll gestaltet und hat uns bestens durch die Tage navigiert. Neben den Spots und Sektoren findet man auch Infos zum Ort, Übernachtungsmöglichkeiten sowie weitere Sportoptionen wie Highlining, Mountainbiking und Trekking. <br/>
 Go and get it - denn mit einem Kauf leistet ihr euren Beitrag zur Community!
 
-![guide](./guide.jpg)
+<re-img
+    src="./guide.jpg"
+    title="guide"
+    >
+</re-img>
 
 [Ulassai Guidebook](https://www.climbingulassai.com/guidebook-2/)
 
@@ -87,12 +119,15 @@ Wir waren Anfang Oktober in Ulassai und das Wetter war perfekt - nicht mehr allz
 ### Übernachten
 Da wir mit dem VW-Bus unterwegs waren, können wir an dieser Stelle nur unseren wunderbaren Standplatz inklusive sehr nettem Streunerhund (s. Foto) verraten (39°45'39.3"N 9°30'22.3"E).<br/>
 Neben dem Nannai Climbing Home werden im Guide aber auch noch andere B&Bs und Hotels genannt. Einen Campingplatz gibt es in der unmittelbaren Umgebung allerdings scheinbar keinen.
-![dog](./dog.jpg)
+<re-img
+    src="./dog.jpg"
+    title="dog"
+    >
+</re-img>
 
 ### Restday?
 Wandern, Mountainbiken oder ein Abstecher an´s Meer! Wir können den langen Sandstrand “Spiaggia di Cea” empfehlen, der ca. 40 Autominuten von Ulassai entfernt liegt und den wir zufällig entdeckt haben. Bestimmt haben die Locals aber noch bessere Gemeintipps...<br/>
 Ansonsten gibt es ein lokales Freilichtmuseum, das Gegenwartskunst aus den Bereichen Architektur, Natur und Kunsthandwerk zeigt, sowie das neue Museum für Zeigenössische Kunst, die Stazione dell'Arte, mit u.a. Werken der Objekt-Künstlerin und Malerin Maria Lai.
-
 
 
 
