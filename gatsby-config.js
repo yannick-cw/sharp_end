@@ -51,7 +51,7 @@ module.exports = {
     title: config.siteTitle,
     description: config.siteDescription,
     siteUrl: config.siteUrl,
-    contactPostAddress: process.env.CONTACT_POST_ADDRESS || "",
+    contactPostAddress: "yannick.gladow@gmail.com",
     emailSubLink: process.env.EMAIL_SUB_LINK || "",
     algolia: {
       appId: process.env.ALGOLIA_APP_ID || "",
@@ -88,7 +88,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/${process.env.POSTS_FOLDER || 'mock_posts'}/`,
+        path: `${__dirname}/content/posts`,
         name: "posts"
       }
     },
@@ -110,6 +110,22 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+              width: 800,
+              ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
+              height: 400, // Optional: Overrides optional.ratio
+              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
+              noIframeBorder: true, //Optional: Disable insertion of <style> border: 0,
+              urlOverrides: [
+                {
+                  id: 'youtube',
+                  embedURL: (videoId) => `https://www.youtube-nocookie.com/embed/${videoId}`,
+                }
+              ] //Optional: Override URL of a service provider, e.g to enable youtube-nocookie support
+            }
+          },
           {
             resolve: "gatsby-remark-component-parent2div",
             options: { components: ["re-icons", "re-img", "re-tracedsvg-gallery"] }
