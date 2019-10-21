@@ -140,19 +140,6 @@ module.exports = {
             }
           },
           {
-            resolve: `gatsby-remark-rehype-images`,
-            options: {
-              tag: 're-img',
-              maxWidth: 800,
-              quality: 90,
-              webP: true,
-              toFormat: 'WEBP',
-              tracedSVG: { color: '#f9ebd2' },
-              generateTracedSVG: true
-            }
-          },
-
-          {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 2em`
