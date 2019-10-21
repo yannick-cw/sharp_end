@@ -1,13 +1,11 @@
 import React from "react";
 import PropTypes from "prop-types";
 import rehypeReact from "rehype-react";
-import ReImg from "./ReImg";
-import ReTracedSVGGallery from "./ReTracedSVGGallery";
 import { Link } from "gatsby";
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
-  components: { "re-img": ReImg , "re-link": Link, "re-tracedsvg-gallery": ReTracedSVGGallery }
+  components: {  "re-link": Link }
 }).Compiler
 
 const Bodytext = props => {
