@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: "sharp-end", // <title>
-  shortSiteTitle: "sharp-end", // <title> ending for posts and pages
-  siteDescription: "Travel Journey of Antonia and Yannick",
-  siteUrl: "https://www.sharp-end.de",
+  siteTitle: "Zu & Ab", // <title>
+  shortSiteTitle: "Zu & Ab", // <title> ending for posts and pages
+  siteDescription: "Toni und Yannicks Reisen",
+  siteUrl: "https://www.zu-und-ab.de",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "de",
@@ -17,7 +17,7 @@ module.exports = {
   authorYoutube: "",
 
   /* header text */
-  headerTitle: "Sharp End",
+  headerTitle: "Zu & Ab",
   headerSubTitle: "",
 
   /* manifest.json */

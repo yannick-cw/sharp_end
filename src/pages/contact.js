@@ -1,7 +1,6 @@
 import React from "react";
 import theme from "../theme/theme.yaml";
 import Article from "../components/Article";
-import Contact from "../components/Contact";
 import Headline from "../components/Article/Headline";
 import Seo from "../components/Seo";
 
@@ -9,9 +8,11 @@ const ContactPage = () => (
   <React.Fragment>
     <Article theme={theme}>
       <header>
-        <Headline title="Contact" theme={theme} />
+        <Headline title="Kontakt" theme={theme} />
       </header>
-      <Contact theme={theme} />
+      <span>
+        Mail uns an: <a href="mailto:yannick.gladow@gmail.com">yannick.gladow@gmail.com</a>
+      </span>
     </Article>
     <Seo pageTitle="Contact" />
   </React.Fragment>
