@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: "Zu & Ab", // <title>
-  shortSiteTitle: "Zu & Ab", // <title> ending for posts and pages
+  siteTitle: "RotpunktReisen", // <title>
+  shortSiteTitle: "RotpunktReisen", // <title> ending for posts and pages
   siteDescription: "Toni und Yannicks Reisen",
-  siteUrl: "https://www.zu-und-ab.de",
+  siteUrl: "https://www.rotpunktreisen.de",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "de",
@@ -17,7 +17,7 @@ module.exports = {
   authorYoutube: "",
 
   /* header text */
-  headerTitle: "Zu & Ab",
+  headerTitle: "RotpunktReisen",
   headerSubTitle: "",
 
   /* manifest.json */
