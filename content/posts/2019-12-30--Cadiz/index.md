@@ -5,12 +5,13 @@ cover: ponyclose2.jpg
 author: Antonia
 ---
 ![Ponys](./ponyclose1.jpg)
-Die Gegend um Tarifa ist eigentlich eher als Wind-und Kitesurfgebiet bekannt. Die kilometerlangen Sandstrände bieten beste Konditionen und super Klima rund um´s Jahr und die Region ist deshalb vor allem in den Wintermonaten sehr beliebt. So viele Vans und Wohnmobile haben wir selten an einem Ort gesehen…
-Ein paar Kilometer vom Meer entfernt, befindet sich aber auch das große Klettergebiet San Bartolo, welches im Nationalpark “Parque Natural del Estrecho” liegt und das wir nach unserer langen Fahrt nach Spanien als erstes besucht haben. 
-<br/>
-Aufgrund seiner Lage zwischen Tarifa und Bolonia ist es wohl das südlichste Klettergebiet auf dem europäischen Festland und man klettert mit Blick auf die Küste Marokkos.
 
-Das Klettergebiet ist in zwei grobe Bereiche unterteilt, die etwas ältere Zona Arriba mit einigen klassischen Routen, sowie El Tajo del Búho o Canuto del Arca mit dem beliebten und ungewöhnlichen Sektor Mosaico. Der Fels ist noch von guter Qualität und besteht aus kompaktem Sand- und Kalkstein. Wir waren ausschließlich am unteren Sektor unterwegs, werden uns den oberen Teil aber bei unserem nächsten Besuch genauer ansehen.
+Die Gegend um Tarifa ist eigentlich eher als Wind-und Kitesurfgebiet bekannt. Die kilometerlangen Sandstrände bieten beste Konditionen und super Klima rund um´s Jahr und die Region ist deshalb vor allem in den Wintermonaten sehr beliebt. So viele Vans und Wohnmobile haben wir selten an einem Ort gesehen…
+Ein paar Kilometer vom Meer entfernt, befindet sich aber auch das große Klettergebiet **San Bartolo**, welches im Nationalpark “Parque Natural del Estrecho” liegt und das wir nach unserer langen Fahrt nach Spanien als erstes besucht haben. 
+<br/>
+Aufgrund seiner Lage zwischen Tarifa und Bolonia ist es wohl das [südlichste Klettergebiet auf dem europäischen Festland](https://goo.gl/maps/4UkUHLpYzg17eQqt8/) und man klettert mit Blick auf die Küste Marokkos.
+
+Das Klettergebiet ist in zwei grobe Bereiche unterteilt, die etwas ältere **Zona Arriba** mit einigen klassischen Routen, sowie **El Tajo del Búho o Canuto del Arca** mit dem beliebten und ungewöhnlichen Sektor Mosaico. Der Fels ist noch von guter Qualität und besteht aus kompaktem Sand- und Kalkstein. Wir waren ausschließlich am unteren Sektor unterwegs, werden uns den oberen Teil aber bei unserem nächsten Besuch genauer ansehen.
 <br/>
 El Tajo del Búho erreicht man über einen kleinen Weg durch die Siedlung und dann ca. 10 Minuten Fußweg bergauf in Richtung der Felswand des Berges San Bartolo. Vom Dorf kommend ist der Einstieg in den Wanderpfad ausgeschildert. 
 <br/>
