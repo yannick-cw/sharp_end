@@ -1,6 +1,6 @@
 ---
 title: Roccadoria Monteleone - Klettern im Steinbruch
-tags: ["klettern", "sardinien", "roccadoria", "steinbruch"]
+tags: ["klettern", "sardinien", "roccadoria"]
 cover: yannickwall.jpg
 author: Antonia
 description: Klettern auf Sardininen Roccadoria Monteleone Klettergebiet im Steinbruch 
