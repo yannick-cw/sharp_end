@@ -11,7 +11,7 @@ const ContactPage = () => (
         <Headline title="Kontakt" theme={theme} />
       </header>
       <span>
-        Mail uns an: <a href="mailto:yannick.gladow@gmail.com">yannick.gladow@gmail.com</a>
+        Mail an uns: <a href="mailto:rotpunktreisen@gmail.com">rotpunktreisen@gmail.com</a>
       </span>
     </Article>
     <Seo pageTitle="Contact" />
