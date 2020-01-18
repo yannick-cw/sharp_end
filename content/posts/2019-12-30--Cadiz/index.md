@@ -41,7 +41,7 @@ Ab und zu kommen auch ein paar Ziegen, Mulis, Pferde oder Hunde vorbei, d.h. der
 
 
 
-### Ausrüstung
+### Ausrüstung & Absicherung
 
 Die meisten Routen sind mit Klebe-oder Borhaken abgesichert, je nach Sektor gibt es aber auch ein paar cleane Routen, in denen man sich selbst sichern müsste (Sektor Glacas Grandes, Mehrseillängen bis zu 75m). Die Länge der Routen in den unteren Sektoren liegt zwischen 10-20 Metern.
 
@@ -61,7 +61,9 @@ Theoretisch ganzjährig, aber da man sich an die Brutzeiten der Vögel an den un
 ### Übernachten 
 
 An den zwei lokalen Parkplätzen kann unserer Erfahrung nach problemlos übernachtet werden, so lange man sich unauffällig und ruhig verhält. Die Bauern kommen immer mal wieder an den Plätzen vorbei um in den Bergen nach dem Vieh zu sehen und wir haben uns ab und zu kurz unterhalten. 
+
 ![Standplatz](./standplatzbus.jpg) 
+
 Die meisten Häuser in der Siedlung sind allerdings Ferienhäuser die gemietet werden können. 
 Wer den Kletterurlaub mit Yoga oder Reiten kombinieren möchte, kann sich bei dem Familienbetrieb [Aventuras del Sur](http://aventurasdelsur.com/de/start/) einmieten, die eine der schönen Fincas in der Siedlung Betis besitzen.
 Richtung Tarifa gibt es natürlich unzählige weitere Unterkünfte, Hostels und Campingplätze.

@@ -64,7 +64,7 @@ Jeden Dienstag gibt es zudem einen kleinen Markt auf der Piazza Barigau, auf dem
 Die Gegend ist außerdem für ihre Cannonau-Weine aus der Valle del Pardu bekannt, die man bei vielen lokalen Händlern verkosten und natürlich kaufen kann.
 
 
-### Ausrüstung
+### Ausrüstung & Absicherung
 Für die meisten Spots reicht ein 60 bzw. 70m Seil. Wir waren allerdings doch ganz froh, bei Su Casteddu unser 80m Seil eingepackt zu haben - sonst wären wir leider nicht in den Genuss der schönen 38m Route gekommen.
 
 
