@@ -3,6 +3,7 @@ title: Ulassai - Das versteckte Kletterparadies auf Sardinien
 tags: ["klettern", "sardinien", "ulassai"]
 cover: ulassai_sign.jpg
 author: Antonia
+description: Klettern in Sardinien in Ulassai
 ---
 ![ulassai](./ulassai_sign.jpg)
 Manchmal sind es gerade die unfreiwilligen Planänderungen, die einen an das eigentliche Ziel einer Reise führen können. In unserem Fall war der Auslöser ein platter Autoreifen, der uns für einige Tage in einem Dorf mitten im sardischen Bergland festhielt - und uns rückblickend die schönsten Tage der Reise beschert hat.

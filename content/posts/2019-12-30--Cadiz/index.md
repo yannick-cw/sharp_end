@@ -3,6 +3,7 @@ title: Ponys Ponys Ponys - und das südlichste Klettergebiet Kontinentaleuropas
 tags: ["klettern", "spanien", "cadiz"]
 cover: ponyclose2.jpg
 author: Antonia
+description: Klettern in Cadiz, Spanien in San Bartolo
 ---
 ![Ponys](./ponyclose1.jpg)
 
