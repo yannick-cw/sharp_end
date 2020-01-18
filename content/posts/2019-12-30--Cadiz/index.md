@@ -40,7 +40,6 @@ Ab und zu kommen auch ein paar Ziegen, Mulis, Pferde oder Hunde vorbei, d.h. der
 ![Pony](./pony.jpg)
 
 
-
 ### Ausrüstung & Absicherung
 
 Die meisten Routen sind mit Klebe-oder Borhaken abgesichert, je nach Sektor gibt es aber auch ein paar cleane Routen, in denen man sich selbst sichern müsste (Sektor Glacas Grandes, Mehrseillängen bis zu 75m). Die Länge der Routen in den unteren Sektoren liegt zwischen 10-20 Metern.
@@ -49,8 +48,10 @@ Wer ohne Seil unterwegs ist, findet in dem Gebiet auch einige Boulder, Crashpads
 
 ### Kletterführer
 
-Wir haben den spanischen Guide “Escalar en Cadiz” von 2018 verwendet, der das Gebiet sehr ausführlich anhand von Fotos beschreibt. Es gibt wohl noch ein paar andere Guides, aber da unser Buch mehrmals von anderen Klettern ausgeliehen wurde, scheint er etwas übersichtlicher zu sein als andere Guidebooks.
 ![Escalar en Cadiz](./guide.JPG) 
+
+Wir haben den spanischen Guide “Escalar en Cadiz” von 2018 verwendet, der das Gebiet sehr ausführlich anhand von Fotos beschreibt. Es gibt wohl noch ein paar andere Guides, aber da unser Buch mehrmals von anderen Klettern ausgeliehen wurde, scheint er etwas übersichtlicher zu sein als andere Guidebooks.
+
 
 ### Reisezeit
 
