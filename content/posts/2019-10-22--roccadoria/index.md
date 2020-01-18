@@ -37,6 +37,9 @@ Die Route Tetris (6b) führt direkt an der Steinbruchwand nach oben - kein klass
 
 ![Bruchkante](./yannickkante.jpg)
 
+![Bruchkante](./bruchkante.jpg)
+
+
 ### Ausrüstung & Absicherung
 Absicherung durch Klebehaken. Aufgrund des Steins sollen auch keine Bohrhaken verwendet werden. Achtung, die Griffe und Tritte können ziemlich brüchig sein - auch wir hatten einige lose Steine in der Hand….
 
