@@ -3,18 +3,17 @@ title: Roccadoria Monteleone - Klettern im Steinbruch
 tags: ["klettern", "sardinien", "roccadoria"]
 cover: yannickwall.jpg
 author: Antonia
-description: Klettern auf Sardininen Roccadoria Monteleone Klettergebiet im Steinbruch 
+description: Klettern auf Sardininen Roccadoria Monteleone Klettergebiet im Steinbruch Erfahrungsbericht
 ---
 
 ![Rotti](./rotti.jpg)
 Wenn ein Tag mit einem Blick in ein Rottweilergesicht anfängt und mit einem Bad in einem kalten, nebeligen See aufhört, klingt das im ersten Moment nicht nach einem Traumtag aus dem Bilderbuch. Warum uns dieser Tag in Roccadoria Monteleone aber trotzdem im Gedächtnis bleiben wird? Nunja, lest selbst...
 <br/>
-Um zu unserem ersten Kletterspot zu gelangen, fahren wir zunächst einmal in's Landesinnere. Der Lago del Temo ist heute unser Ziel, an dem auch das wohl atypischste Klettergebiet Sardinens liegt. <br/>
-Erst 2006 erschlossen, klettert man nun auf Tuffstein, der von einer mehr oder weniger festen Kalksteinkruste überzogen ist. Der Stein ist teilweise so brüchig, dass wir mehrmals ein paar unfreiwillige Souvenirs in den Händen halten.
+Um zu unserem ersten Kletterspot zu gelangen, fahren wir zunächst einmal in's Landesinnere. Der Lago del Temo ist heute unser Ziel, an dem auch das wohl atypischste Klettergebiet Sardinens liegt. Erst 2006 erschlossen, klettert man nun auf Tuffstein, der von einer mehr oder weniger festen Kalksteinkruste überzogen ist. Der Stein ist teilweise so brüchig, dass wir mehrmals ein paar unfreiwillige Souvenirs in den Händen halten.
 
 Aber zunächst zurück zur Hundegeschichte...<br/>
 Auf der Suche nach einem Schlafplatz folgen wir gegen Abend einer kleinen Sackgasse Richtung Lago del Telmo, die uns direkt an das Seeufer führen soll. Da wir in dieser Ecke bisher nur sehr wenigen Touristen begegnet sind, überrascht es uns umso mehr, als wir am Ende der Sackgasse einen alten T3 Bulli stehen sehen.
-Noch ein paar Meter weitergefahren und es kommen laut bellend zwei Rottweiler hinten dem Bus hervor und kündigen unsere Ankunft an - beide ziehen an einer langen Eisenkette, die am Bus befestigt ist. Unschlüssige Blicke zwischen Yannick und mir. <br/>FAST FORWARD <br/> Wir sitzen mit dem Rentnerpaar W. und B. bei einem Kanister sardischen Rotwein zusammen und die zwei "Rottis" liegen friedlich schlafend unter dem Tisch. Wir leeren ein Glas nach dem anderen, unterhalten uns über Gott und die Welt und schauen gemeinsam in den klaren Sternenhimmel.
+Noch ein paar Meter weitergefahren und es kommen laut bellend zwei Rottweiler hinten dem Bus hervor und kündigen unsere Ankunft an - beide ziehen an einer langen Eisenkette, die am Bus befestigt ist. Unschlüssige Blicke zwischen Yannick und mir. <br/>**FAST FORWARD** <br/> Wir sitzen mit dem Rentnerpaar W. und B. bei einem Kanister sardischen Rotwein zusammen und die zwei "Rottis" liegen friedlich schlafend unter dem Tisch. Wir leeren ein Glas nach dem anderen, unterhalten uns über Gott und die Welt und schauen gemeinsam in den klaren Sternenhimmel.
 
 Trotzdem beginnt der nächste Tag früh und führt uns gleich im Morgennebel in das kleine Dorf Roccadoria. Ein alter Steinbruch ist das Ziel, der die Kulisse für ein [Klettergebiet der besonderen Art](https://goo.gl/maps/sU5eDi4ZzqugyRfx5/) bietet. Sobald man sich am Steinbruch befindet, ist das nahe Dorf vergessen und der Blick gilt erst einmal einige Minuten der schönen Aussicht auf den Lago del Temo, der sich direkt unterhalb im Tal befindet.
 Die Atmosphäre und die Ästhetik der Routen entschädigt für den ein oder anderen brüchigen Abschnitt. 
@@ -33,11 +32,11 @@ Die Atmosphäre und die Ästhetik der Routen entschädigt für den ein oder ande
 
 Die Route Tetris (6b) führt direkt an der Steinbruchwand nach oben - kein klassisches “Fels-Erlebnis”, aber trotzdem sehr besonders. Eine leichte, aber trotzdem erwähnenswerte Route ist außerdem die Route Pericolante (5b), die sich direkt an der Bruchkante entlang zieht.
 
-![Tetris](./yannickwall.jpg)
+![Route Tetris](./yannickwall.jpg)
 
 ![Bruchkante](./yannickkante.jpg)
 
-![Bruchkante](./bruchkante.jpg)
+![Bruchkante Pericolante](./bruchkante.jpg)
 
 
 ### Ausrüstung & Absicherung
@@ -50,18 +49,18 @@ Dieses Gebiet findet man im Standard-Kletterführer Pietra di Luna von Maurizio 
 Ganzjährig, allerdings wird es im Sommer vor allem am Nachmittag richtig heiß (Sonne ab ca. 10:00 Uhr im rechten Sektor und um 14:00 Uhr im linken Sektor). Selbst bei uns im “Winter” wurden wir nachmittags ziemlich gegrillt…
 Positiv ist, dass man in den meisten Sektoren auch bei leichtem Regen klettern könnte.
 
-![Regensicher](./regen.jpg)
+![Regensicherer Sektor](./regen.jpg)
 
 ### Übernachten
 Wir haben wir eine [kleine Sackgasse](https://goo.gl/maps/XiLRKxbJXctB42FX7/) gefunden, die direkt in den Lago del Temo zu münden scheint. Dort haben wir eine entspannte Nacht verbracht und konnten morgens direkt vom Bus in den See springen. 
 Alternativ kann man auch in den zwei kleinen B&Bs im Dorf unterkommen oder etwas weiter zum [Agriturismo Mendulas](https://www.mendulas.it/) fahren, welcher im Kletterführer erwähnt wird.
 
 
-![See](./baden.jpg)
+![Lago del Temo](./baden.jpg)
 
 ### Restday?
 Obwohl es eher unwahrscheinlich ist, dass man in diese Region fährt, wenn man einen Restday geplant hat, gibt es bestimmt die ein oder andere Aktivität abseits des Kletterns rund um Roccadoria. Wir haben außer Klettern, Baden und Wein trinken nicht viel gemacht... Das Dorf selbst ist unter der Woche eher ausgestorben und außer den Überresten des ehemaligen Castello di Monteleone gibt es wenig zu sehen. Vielleicht doch lieber Tetris ausprobieren...?
 
-![Aussicht](./aussichtsonne.jpg)
+![Aussicht auf den Lago del Temo](./aussichtsonne.jpg)
 
 
