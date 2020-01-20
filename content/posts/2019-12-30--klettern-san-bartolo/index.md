@@ -1,16 +1,16 @@
 ---
-title: Ponys Ponys Ponys - und das südlichste Klettergebiet Kontinentaleuropas
+title: Ponys Ponys Ponys - und das südlichste Klettergebiet Kontinentaleuropas San Bartolo
 tags: ["klettern", "spanien", "cadiz"]
 cover: ponyclose2.jpg
 author: Antonia
-description: Klettern in Cadiz, Spanien in San Bartolo
+description: Sportklettern im Klettergebiet San Bartolo in Cadiz, Andalusien, Spanien
 ---
 ![Ponys](./ponyclose1.jpg)
 
 Die Gegend um Tarifa ist eigentlich eher als Wind-und Kitesurfgebiet bekannt. Die kilometerlangen Sandstrände bieten beste Konditionen und super Klima rund um´s Jahr und die Region ist deshalb vor allem in den Wintermonaten sehr beliebt. So viele Vans und Wohnmobile haben wir selten an einem Ort gesehen…
 Ein paar Kilometer vom Meer entfernt, befindet sich aber auch das große Klettergebiet **San Bartolo**, welches im Nationalpark “Parque Natural del Estrecho” liegt und das wir nach unserer langen Fahrt nach Spanien als erstes besucht haben. 
 <br/>
-Aufgrund seiner Lage zwischen Tarifa und Bolonia ist es wohl das [südlichste Klettergebiet auf dem europäischen Festland](https://goo.gl/maps/4UkUHLpYzg17eQqt8/) und man klettert mit Blick auf die Küste Marokkos.
+Aufgrund seiner Lage zwischen Tarifa und Bolonia ist San Bartolo wohl das [südlichste Klettergebiet auf dem europäischen Festland](https://goo.gl/maps/4UkUHLpYzg17eQqt8/) und man klettert mit Blick auf die Küste Marokkos.
 
 Das Klettergebiet ist in zwei grobe Bereiche unterteilt, die etwas ältere **Zona Arriba** mit einigen klassischen Routen, sowie **El Tajo del Búho o Canuto del Arca** mit dem beliebten und ungewöhnlichen Sektor Mosaico. Der Fels ist noch von guter Qualität und besteht aus kompaktem Sand- und Kalkstein. Wir waren ausschließlich am unteren Sektor unterwegs, werden uns den oberen Teil aber bei unserem nächsten Besuch genauer ansehen.
 <br/>
@@ -18,19 +18,19 @@ El Tajo del Búho erreicht man über einen kleinen Weg durch die Siedlung und da
 <br/>
 Vor allem an Wochenenden und Feiertagen sind die unteren Sektoren auch bei Familien mit Kindern beliebt, die am Fuß der Felswand picknicken, d.h. wer Ruhe sucht, kommt besser unter der Woche oder früh am Morgen bzw. spät am Abend.
 <br/>
-Mit über 200 Routen in allen Schwierigkeitsgraden ist das Gebiet sehr abwechslungsreich und reicht von leichten und kurzen Aufwärmrouten bis hin zu schweren Platten- und Überhangsklettereien. 
+Mit über 200 Routen in allen Schwierigkeitsgraden ist San Bartolo sehr abwechslungsreich und reicht von leichten und kurzen Aufwärmrouten bis hin zu schweren Platten- und Überhangsklettereien. 
 <br/>
 Wir sind vor allem an den Sektoren Los Bordillos und Mosaico geklettert. In Los Bordillos findet man vor allem eher kürzere und leichtere bis mittelschwere Routen, d.h. viele 4er, 5er und 6er.
 ![zona arriba](./yannickfels.jpg) 
 <br/>
-Die Hauptwand im Sektor Mosaico startet mit ein paar 5er Routen und bewegt sich dann vor allem im 6er und 7er Bereich. Die Felsstruktur ist wirklich ungewöhnlich, meist sehr steil, griffig und sehr schön zu klettern.
+Die Hauptwand im Sektor Mosaico startet mit einigen 5er Routen und bewegt sich dann vor allem im 6er und 7er Bereich. Die Felsstruktur ist wirklich ungewöhnlich, meist sehr steil, griffig und sehr schön zu klettern.
 ![Mosaico wall](./mosaicowall.JPG)
 
 ![Mosaico](./mosaico1.jpg)
 
 ![Yannick am Fels](./yannickwall.JPG)
 
-Besonders beeindruckend waren die vielen riesigen Gänsegeier, die in den Felsen weiter oberhalb nisten und welche manchmal während der Kletterei am Fels kurz über den Köpfen vorbeifliegen. Wegen der Brutzeit dieser lokalen Vogelkolonien ist das Klettern an diesen Felsen auch in der Zeit von Anfang März bis Ende August verboten.
+Besonders beeindruckend waren die vielen riesigen Gänsegeier, die in den Felsen weiter oberhalb nisten und welche manchmal während der Kletterei am Fels kurz über den Köpfen vorbeifliegen. Aufgrund der Brutzeit dieser lokalen Vogelkolonien ist das Klettern an diesen Felsen auch in der Zeit von Anfang März bis Ende August verboten.
 
 Wenn man sich ordentlich verhält, kann man ohne Probleme auf dem Parkplatz der kleinen Siedlung Betis stehen bzw. übernachten und mit etwas Glück wird man morgens von ein paar neugierigen Ponys geweckt, die Ihren Kopf in den Van stecken und ihren Anteil vom Frühstück fordern.
 Ab und zu kommen auch ein paar Ziegen, Mulis, Pferde oder Hunde vorbei, d.h. der Ort fühlt sich eher wie ein Farmstay an als ein gewöhnlicher Dorfparkplatz.
@@ -55,7 +55,7 @@ Wir haben den spanischen Guide “Escalar en Cadiz” von 2018 verwendet, der da
 
 ### Reisezeit
 
-Theoretisch ganzjährig, aber da man sich an die Brutzeiten der Vögel an den unteren Sektoren halten sollte, eher im Herbst und Winter von Anfang September bis Ende Februar. Da die unteren Sektoren in der Sonne liegen wäre es im Sommer allerdings sowieso zu heiß. Um Regen muss man sich eher weniger Sorgen machen, die Region gehört mit ca. 300 Sonnentagen zu den sonnenreichsten Regionen Europas.
+Theoretisch könnte man in San Bartolo ganzjährig klettern, aber da man sich an die Brutzeiten der Vögel an den unteren Sektoren halten sollte, beschränkt sich die Klettersaison auf den Herbst und Winter (von Anfang September bis Ende Februar). Da die unteren Sektoren in der Sonne liegen wäre es im Sommer allerdings sowieso zu heiß. Um Regen muss man sich eher weniger Sorgen machen, die Region gehört mit ca. 300 Sonnentagen zu den sonnenreichsten Regionen Europas.
 
 ![Sunset](./sonnenuntergang.jpg) 
 
@@ -75,4 +75,4 @@ Besonders empfehlen können wir das kleine vegetarische Restaurant [Chilimosa](h
 
 ### Restday?
 
-Die Möglichkeiten sind endlos! Neben Reiten, Yoga, Schwimmen, Surfen und Wandern kann man in der Gegend auch Mountainbiken. Wir hatten uns eine Tour über Outdooractive ausgesucht, die etwas abenteuerlich geworden ist und wir die Räder mehrmals durch Sand, Gestrüpp und Felsen tragen mussten. Aber wer ein bisschen mehr recherchiert, findet bestimmt super Touren.
+Die Möglichkeiten sind endlos! Neben Reiten, Yoga, Schwimmen, Surfen und Wandern kann man in der Gegend auch Mountainbiken. Wir hatten uns eine Tour über Outdooractive ausgesucht, die allerdings etwas abenteuerlich geworden ist und wir die Räder mehrmals durch Sand, Gestrüpp und Felsen tragen mussten. Aber wer ein bisschen mehr recherchiert, findet bestimmt super Touren.

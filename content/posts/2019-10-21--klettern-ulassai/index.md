@@ -3,7 +3,7 @@ title: Ulassai - Das versteckte Kletterparadies auf Sardinien
 tags: ["klettern", "sardinien", "ulassai"]
 cover: ulassai_sign.jpg
 author: Antonia
-description: Klettern in Sardinien in Ulassai
+description: Klettern in Sardinien im Gebiet Ulassai
 ---
 ![ulassai](./ulassai_sign.jpg)
 Manchmal sind es gerade die unfreiwilligen Planänderungen, die einen an das eigentliche Ziel einer Reise führen können. In unserem Fall war der Auslöser ein platter Autoreifen, der uns für einige Tage in einem Dorf mitten im sardischen Bergland festhielt - und uns rückblickend die schönsten Tage der Reise beschert hat.
@@ -30,7 +30,7 @@ Die Community betreibt im Dorf ein kleines Guesthouse, das [Nannai Climbing Hous
 ### Klettern in Ulassai
 
 
-Drei Tage sind leider nicht mal ansatzweise genug Zeit um die Gegend zu erkundigen, deshalb haben wir bisher nur zwei der über 16 Spots in der Region kennengelernt: Su Casteddu und Canyon Sa Trappara.<br/>
+Drei Tage sind leider nicht mal ansatzweise genug Zeit um die Gegend zu erkunden, deshalb haben wir bisher nur zwei der über 16 Spots in der Region kennengelernt: Su Casteddu und Canyon Sa Trappara.<br/>
 Während wir bei Su Casteddu nur ca. 4 Routen geklettert sind, haben wir den Canyon um einiges intensiver erklettert und waren zwei volle Tage in diesem Gebiet.
 
 
