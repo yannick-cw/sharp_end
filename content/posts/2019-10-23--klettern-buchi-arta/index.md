@@ -7,13 +7,13 @@ description: Klettern in Sardinien im Gebiet Buchi Arta bei Cala Gonone
 ---
 ![Bucht bei Cala Gonone](./calagonone.jpg)
 
-Die Gegend rund um Cala Gonone am Golfo die Orosei ist wohl eine der populärsten Kletterregionen auf Sardinien. Wo sonst auf der Insel lässt sich ein Strandurlaub mit zahlreichen Kletterausflügen so gut vereinen wie an diesem Fleckchen im Osten der Insel (Okay, vielleicht noch Cala Goloritze oder Pedra Longa bei Baunei...). Die Gegend ist mittlerweile weltbekannt und mit über 32 Sektoren findet sich für jeden Geschmack der passende Fels. 
+Die Gegend rund um **Cala Gonone am Golfo die Orosei** ist wohl eine der populärsten Kletterregionen auf Sardinien. Wo sonst auf der Insel lässt sich ein Strandurlaub mit zahlreichen Kletterausflügen so gut vereinen wie an diesem Fleckchen im Osten der Insel (Okay, vielleicht noch Cala Goloritze oder Pedra Longa bei Baunei...). Der Ort ist in Kletterkreisen mittlerweile weltbekannt und mit über 32 Sektoren findet sich für jeden Geschmack der passende Fels. 
 
 ### Ein Klettergarten zwischen Berg und Meer
 
-Der Klettergarten Buchi Arta in der Gegend um Cala Gonone ist jedoch unser ungeschlagener Favorit. Griffiger Fels aus Kalkgestein und viele, schöne lange Routen machen diesen Sektor zum absoluten Traumgebiet für eher leichtere und mittelschwere Klettereien (ca. 40 Routen im Bereich 5b bis 6c+). Überhänge findet man hier zwar nicht, dafür klettert man auch in den unteren Graden meist auf senkrechten Wänden sowie waagrechten Rissen. In der Nebensaison (Oktober) liegt das Gebiet bis zum frühen Nachmittag angenehm im Schatten und zwischen den vielen Steineichen- und Olivenbäumen kann man entspannt eine Hängematte aufhängen. Aus diesem Grund ist dieser Sektor auch ein super Klettergebiet für Familien mit Kindern. Die Routen sind durchnummeriert, meist namenlos und zwischen 15 und 30m lang. Als kleinen Minuspunkt könnte man die verhältnismäßig langen Bohrhaken-Abstände nennen, die bei dem, doch teils sehr scharfem Fels, nicht gerade Mut machen... 
+Der Klettergarten **Buchi Arta** in der Gegend um Cala Gonone ist jedoch unser ungeschlagener Favorit. Griffiger Fels aus Kalkstein und viele schöne, lange Routen machen diesen Sektor zum absoluten Traumgebiet für eher leichtere und mittelschwere Klettereien (ca. 40 Routen im Bereich 5b bis 6c+). Überhänge findet man hier zwar nicht, dafür klettert man auch in den unteren Graden meist auf senkrechten Wänden sowie waagrechten Rissen. In der Nebensaison (in unserem Fall Oktober) liegt das Gebiet bis zum frühen Nachmittag angenehm im Schatten und zwischen den vielen Steineichen- und Olivenbäumen kann man entspannt eine Hängematte aufhängen. Aus diesem Grund ist dieser Sektor auch ein super Klettergebiet für Familien mit Kindern. Die Routen sind durchnummeriert, meist namenlos und zwischen 15m und 30m lang. Als kleinen Minuspunkt könnte man die verhältnismäßig langen Bohrhaken-Abstände nennen, die bei dem, doch teils sehr scharfem Fels, nicht gerade Mut machen... 
 
-Während unseren zwei Klettertagen im Gebiet, haben wir uns aus purer Begeisterung eher dem Klettern als dem Fotografieren gewidmet, weshalb es leider wenig Bildmaterial gibt.
+Während unseren Klettertagen im Gebiet haben wir uns aus purer Begeisterung eher dem reinen Klettern als dem Fotografieren gewidmet, weshalb es leider wenig Bildmaterial gibt.
 
 ![Zustieg Buchi Arta](./buchiartacover.jpg)
 
@@ -36,7 +36,7 @@ Vor Ort gibt es den kleinen Klettershop [Stile Alpino](https://goo.gl/maps/bnU8c
 In Cala Gonone reiht sich ein Restaurant an das Nächste, die Auswahl reicht von kleines Bistros und Cafés im Ort bis hin zu den zahlreichen Fischrestaurants an der Strandpromenade. Empfehlen können wir die Pizzeria [Pizzeria Zio Pedrillo](https://g.page/pizzeriaziopedrillo?share), die direkt gegenüber des Klettershops liegt.
 
 ### Kletterführer
-Die meisten Gebiete in der Region findet man im Kletterführer Pietra di Luna - Sportkletterführer Sardinien von Maurizio Oviglia. Wie immer ist neben der Topo auch sehr viel Information zur Entwicklung des Gebiets, der Erschließungsgeschichte sowie den einzelnen Sektoren zu lesen. Detailliertere Beschreibungen und Topos dieser und weiterer Gebiete findet man zudem auch in den vor Ort erhältlichen Mini-Führern. 
+Die meisten Gebiete in der Region findet man im Kletterführer [Pietra di Luna - Sportkletterführer Sardinien von Maurizio Oviglia](https://www.freytagberndt.com/produkt/9788889661314-oviglia-maurizio-pietra-di-luna-sportklettern-deutsch/). Wie immer ist neben der Topo auch sehr viel Information zur Entwicklung des Gebiets, der Erschließungsgeschichte sowie den einzelnen Sektoren zu lesen. Detailliertere Beschreibungen und Topos dieser und weiterer Gebiete findet man zudem auch in den vor Ort erhältlichen Mini-Führern. 
 
 ### Anfahrt & Übernachten
 
