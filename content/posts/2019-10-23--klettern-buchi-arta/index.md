@@ -37,6 +37,8 @@ Vor Ort gibt es den kleinen Klettershop [Stile Alpino](https://goo.gl/maps/bnU8c
 
 In Cala Gonone reiht sich ein Restaurant an das Nächste, die Auswahl reicht von kleines Bistros und Cafés im Ort bis hin zu den zahlreichen Fischrestaurants an der Strandpromenade. Empfehlen können wir die Pizzeria [Pizzeria Zio Pedrillo](https://g.page/pizzeriaziopedrillo?share), die direkt gegenüber des Klettershops liegt.
 
+Ebenfalls nur ein paar Meter entfernt, liegt die kleine Bar [La Pineta](https://goo.gl/maps/YQDgyZaWgXzUSW619), die im Kletterführer von Cala Gonone als Szenetreff der Kletterer genannt wird. Man kann sich dort in einem Buch verewigen oder durch die Geschichten anderer Kletterer blättern, sowie Updates zu den Routen in der Region finden.
+
 ### Kletterführer
 Die meisten Gebiete in der Region findet man im Kletterführer [Pietra di Luna - Sportkletterführer Sardinien von Maurizio Oviglia](https://www.freytagberndt.com/produkt/9788889661314-oviglia-maurizio-pietra-di-luna-sportklettern-deutsch/). Wie immer ist neben der Topo auch sehr viel Information zur Entwicklung des Gebiets, der Erschließungsgeschichte sowie den einzelnen Sektoren zu lesen. Detailliertere Beschreibungen und Topos dieser und weiterer Gebiete findet man zudem auch in den vor Ort erhältlichen Mini-Führern. 
 
